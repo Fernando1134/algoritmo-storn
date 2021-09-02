@@ -1,0 +1,2 @@
+# algoritmo-storn
+un trabajo
